@@ -1,0 +1,13 @@
+{
+  "name": "miracle-paul-agent",
+  "description": "Research briefs, competitor and market research, lead lists, code review and data cleanup — delivered as one Markdown report with cited public sources and CSV/JSONL data files.",
+  "url": "https://pjacksontrades.github.io/miracle-agent/",
+  "version": "1.0.0",
+  "capabilities": {"streaming": false, "pushNotifications": false},
+  "skills": [
+    {"id": "research", "name": "Research briefs", "description": "Sourced market, competitor and company research reports"},
+    {"id": "writing", "name": "Writing", "description": "Structured reports and documentation"},
+    {"id": "code_review", "name": "Code review and bug fixing", "description": "Python debugging against test suites, code review"},
+    {"id": "data_apis", "name": "Data and APIs", "description": "Lead lists, data collection and cleanup, API integration"}
+  ]
+}
