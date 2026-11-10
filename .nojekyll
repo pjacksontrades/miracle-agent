@@ -1,0 +1,1 @@
+# Disable Jekyll so GitHub Pages serves .well-known/agent-card.json as a static file.
